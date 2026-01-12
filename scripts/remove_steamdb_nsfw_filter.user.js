@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Disable SteamDB NSFW Blur
 // @namespace    https://steamdb.info/
-// @version      2026-01-12___00-52-17
+// @version      2026-01-12___00-58-26
 // @description  Disable SteamDB NSFW Blurs
 // @author       RykaDev
-// @updateURL    https://github.com/rykadev/my-greasemonkey-scripts/raw/master/remove_steamdb_nsfw_filter.user.js
-// @downloadURL  https://github.com/rykadev/my-greasemonkey-scripts/raw/master/remove_steamdb_nsfw_filter.user.js
+// @updateURL    https://github.com/rykadev/my-greasemonkey-scripts/raw/refs/heads/main/scripts/remove_steamdb_nsfw_filter.user.js
+// @downloadURL  https://github.com/rykadev/my-greasemonkey-scripts/raw/refs/heads/main/scripts/remove_steamdb_nsfw_filter.user.js
 // @match        https://steamdb.info/*
 // @icon         https://steamdb.info/favicon.ico
 // @grant        none

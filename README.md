@@ -7,4 +7,4 @@ Then click one of the scripts bellow.
 
 
 ---
-- [remove_steamdb_nsfw_filter.user.js](https://github.com/rykadev/my-greasemonkey-scripts/raw/master/remove_steamdb_nsfw_filter.user.js)
+- [remove_steamdb_nsfw_filter.user.js](https://github.com/rykadev/my-greasemonkey-scripts/raw/refs/heads/main/scripts/remove_steamdb_nsfw_filter.user.js)

@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-const github_url = "https://github.com/rykadev/my-greasemonkey-scripts/raw/master/";
+const github_url = "https://github.com/rykadev/my-greasemonkey-scripts/raw/refs/heads/main/scripts/";
 
 const date_version_string = new Date()
     .toISOString()
