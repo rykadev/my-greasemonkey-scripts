@@ -32,6 +32,8 @@ await Promise.all(scriptList.map(async (script_filename) => {
         }else{
             console.log(`Setting new @version for "${script_filename}" -> ${date_version_string}`);
         }
+    }else{
+        console.log(`Setting first @version for "${script_filename}" -> ${date_version_string}`);
     }
 
     let script_text = await fs.promises.readFile(script_path, "utf-8");

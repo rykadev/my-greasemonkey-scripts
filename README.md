@@ -9,3 +9,4 @@ Then click one of the scripts bellow.
 ---
 - [danbooru_auto_limit200.user.js](https://github.com/rykadev/my-greasemonkey-scripts/raw/refs/heads/main/scripts/danbooru_auto_limit200.user.js)
 - [remove_steamdb_nsfw_filter.user.js](https://github.com/rykadev/my-greasemonkey-scripts/raw/refs/heads/main/scripts/remove_steamdb_nsfw_filter.user.js)
+- [remove_whatfontis_blur.user.js](https://github.com/rykadev/my-greasemonkey-scripts/raw/refs/heads/main/scripts/remove_whatfontis_blur.user.js)
